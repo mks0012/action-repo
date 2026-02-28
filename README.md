@@ -1,1 +1,2 @@
 # GitHub Action Test Repo
+Wait up to 15 seconds. Your React app will automatically update with the new "Push" entry without you refreshing the page.
