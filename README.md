@@ -6,3 +6,4 @@ final result test
 complete project.
 TEST verfication #1
 Testing Pull Request Merge logic
+TEST verification 
